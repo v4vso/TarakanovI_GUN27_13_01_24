@@ -1,0 +1,14 @@
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\bin\Debug\net6.0\CalculatorApp.exe
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\bin\Debug\net6.0\CalculatorApp.deps.json
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\bin\Debug\net6.0\CalculatorApp.runtimeconfig.json
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\bin\Debug\net6.0\CalculatorApp.dll
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\bin\Debug\net6.0\CalculatorApp.pdb
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\CalculatorApp.dll
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\refint\CalculatorApp.dll
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\CalculatorApp.pdb
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\sigma\Desktop\TarakanovI_GUN27_13_01_24\CalculatorApp\obj\Debug\net6.0\ref\CalculatorApp.dll
